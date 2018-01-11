@@ -1,6 +1,10 @@
+
 <resources>
     <string name="app_name">BitcoinUmrechner</string>
     <string name="et_euro">Euro eintragen</string>
     <string name="et_bitcoin">Betrag in Bitcoin</string>
     <string name="btn_umrechnen">Umrechnen</string>
+    <string name="btn_kurs">Kurs abrufen</string>
+    <string name="tv_akutellerKurs">akuteller Kurs:</string>
+    <string name="bitcoinkurs">bitcoinkurs</string>
 </resources>
